@@ -1,0 +1,1 @@
+One challenge I faced was connecting the backend and frontend correctly, especially getting MongoDB Atlas to work with Mongoose and ensuring data populated properly. I solved this by debugging environment variables, fixing route imports, and verifying API responses using Postman and the browser.
